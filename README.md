@@ -16,4 +16,4 @@
 
 
 ## 📫 Contato
-- LinkedIn: [linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/yago-hilario/))
+- LinkedIn: [Yago Hilário](https://www.linkedin.com/in/yago-hilario/)
