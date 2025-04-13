@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋 Me chamo Yago
 
-<!--
-**yagohandrade/yagohandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Engenheiro de Machine Learning  
+🧠 Apaixonado por Deep Learning, IA e automações com dados  
+🚀 Buscando desafios em projetos com impacto real  
+📚 Atualmente: desenvolvendo um mini framework de Deep Learning do zero
 
-Here are some ideas to get you started:
+## 🧰 Habilidades principais
+- Python, NumPy, Pandas
+- Machine Learning e Deep Learning
+- MLOps (MLflow, Docker, Git/GitHub)
+- Estudando: Transformers, CNNs, LLMs e produção de modelos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- [MiniDLFramework](link_para_o_repo)
+
+
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/seu-perfil]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/yago-hilario/))
