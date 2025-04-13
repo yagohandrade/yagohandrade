@@ -1,4 +1,4 @@
-# Olá! 👋 Me chamo Yago
+# Yago - Engenheiro de Machine Learning  
 
 🎯 Engenheiro de Machine Learning  
 🧠 Apaixonado por Deep Learning, IA e automações com dados  
