@@ -11,9 +11,5 @@
 - MLOps (MLflow, Docker, Git/GitHub)
 - Estudando: Transformers, CNNs, LLMs e produção de modelos
 
-## 📌 Projetos em destaque
-- [MiniDLFramework](link_para_o_repo)
-
-
 ## 📫 Contato
 - LinkedIn: [Yago Hilário](https://www.linkedin.com/in/yago-hilario/)
